@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_normal" type="id"/>
+    <item name="color_black" type="id"/>
+    <item name="color_red" type="id"/>
+    <item name="font_large" type="id"/>
+    <item name="font_medium" type="id"/>
+    <item name="font_small" type="id"/>
+</resources>
